@@ -1,2 +1,2 @@
-# Start_template
-Start template scss,sass
+# start_template
+start template scss,sass
