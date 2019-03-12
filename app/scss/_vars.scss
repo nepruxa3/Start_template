@@ -1,0 +1,7 @@
+$default-font: "roboto", sans-serif;
+$accent: orange;
+$text: #333;
+
+@mixin transition($rule: all, $time: 0.3s) {
+	transition: $rule $time;
+}
